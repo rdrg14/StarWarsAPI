@@ -10,7 +10,6 @@
     - [Instalação](#instala%C3%A7%C3%A3o)
         - [Baixando os arquivos da aplicação](#baixando-os-arquivos-da-aplica%C3%A7%C3%A3o)
         - [Banco de Dados mongodb](#banco-de-dados-mongodb)
-            - [Carregando dados no banco de dados local (opcional)](#carregando-dados-no-banco-de-dados-local-opcional)
         - [Aplicação](#aplica%C3%A7%C3%A3o)
             - [Diretamente pelo Maven](#diretamente-pelo-maven)
     - [API Rest](#api-rest)
@@ -66,7 +65,7 @@ Antes da instalação se pressupõe que o java 1.8 e o git já estão instalados
 
 Para baixar os arquivos do aplicativo deve-se usar o comando:  
 
-`git clone https://github.com/rdrg14/desafio-B2W.git`
+`git clone https://github.com/rdrg14/desafioB2W-StarWarsAPI.git`
 
 Depois entrar na pasta do aplicativo:
 
