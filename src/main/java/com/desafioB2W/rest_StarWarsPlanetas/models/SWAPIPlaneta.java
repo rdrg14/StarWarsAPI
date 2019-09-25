@@ -2,9 +2,7 @@ package com.desafioB2W.rest_StarWarsPlanetas.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-//import lombok.Data;
 
-//@Data
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class SWAPIPlaneta {
 	private String name;

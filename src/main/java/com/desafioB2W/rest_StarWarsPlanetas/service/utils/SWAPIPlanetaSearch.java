@@ -20,9 +20,5 @@ public class SWAPIPlanetaSearch {
 		return results;
 	}
 
-	public void setResults(SWAPIPlaneta[] results) {
-		this.results = results;
-	}
-
    
 }

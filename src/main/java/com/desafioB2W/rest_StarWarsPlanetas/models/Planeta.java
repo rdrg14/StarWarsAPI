@@ -8,10 +8,7 @@ import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.index.Indexed;
 
-//import lombok.Data;
 
-
-//@Data
 public class Planeta {
 	@Id
 	private ObjectId _id;
